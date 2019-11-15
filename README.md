@@ -1,2 +1,2 @@
 # gmall01
-这是从GitHub上克隆的gmall项目
+这是我从GitHub上创建的第一个gmall项目
